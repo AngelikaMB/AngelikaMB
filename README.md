@@ -29,7 +29,7 @@ alt="ReactJS Badge"></img></a>
 - My love for accessibility began at age 9, when I met a little girl with a brain tumor who was left blind and needed a friend to guide her around during church ceremonies.
 - I'm a devoted geek; I play PC survival, base-builders, and strategy games as well as tabletop(D&D) and card(Magic). 
 - Fantasy/Sci-Fi novels & dramas are my jam.
-- As a devout Mexican American, I love Korean food more than tamales. Kimbap is life.
+- As a proud Mexican American, I love Korean food more than tamales. Kimbap is life.
 - I'm a mother to 3: My daughter, Jade, and 2 "dog-ters", Fae Wilds and Arcadia.
 - Defeating my darling husband of 9 years in MTG is the only reason I picked up the hobby.
 </details>
