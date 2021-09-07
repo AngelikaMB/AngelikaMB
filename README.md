@@ -26,7 +26,7 @@ alt="ReactJS Badge"></img></a>
 <details>
   <summary>Tidbits About Me:</summary>
 
-- My love for accessibility began at age 9, when I met a little girl with a brain tumor who was left blind and needed a friend to guide her around during church ceremonies.
+- My love for accessibility began at age 9, when I met a little girl who had been left blinded by a brain tumor and needed a friend to guide her around during church ceremonies.
 - I'm a devoted geek; I play PC survival, base-builders, and strategy games as well as tabletop(D&D) and card(Magic). 
 - Fantasy/Sci-Fi novels & dramas are my jam.
 - As a proud Mexican American, I love Korean food more than tamales. Kimbap is life.
